@@ -39,3 +39,10 @@ a {
 a:hover {
     color: #FF55BB;
 }
+
+button {
+    font-size: 14px;
+    padding: 20px;
+    margin-left: 40%;
+    margin-top: 50px;
+}
