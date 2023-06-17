@@ -1,0 +1,48 @@
+@charset "utf-8";
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    max-height: 100vh;
+    background-color: #146C94;
+}
+
+div {
+    background-color: #AFD3E2;
+    margin: 10vh 50vh;
+    padding: 5rem;
+    border-radius: 2rem;
+    color: #146C94;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+div h1, h2 {
+    padding: 15px 0;
+    color: #14506c;
+}
+
+h3 {
+    color: rgba(20, 80, 108, 0.7);
+    padding-bottom: 25px;
+}
+
+a {
+    text-decoration-line: underline;
+    color: #14506c;
+}
+
+a:hover {
+    color: #FF55BB;
+}
+
+button {
+    font-size: 14px;
+    padding: 20px;
+    margin-left: 40%;
+    margin-top: 50px;
+}
